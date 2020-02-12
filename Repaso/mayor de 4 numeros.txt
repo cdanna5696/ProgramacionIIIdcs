@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace mayor_de_cuatro_numeros
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int u;
+            Console.WriteLine("Ingrese los numeros");
+            int a = Convert.ToInt16(Console.ReadLine());
+            int b = Convert.ToInt16(Console.ReadLine());
+            int c = Convert.ToInt16(Console.ReadLine());
+            int d = Convert.ToInt16(Console.ReadLine());
+            if (a > b && a > c && a > d)
+            {
+                u = a;
+            }
+            else
+            {
+                if (b > a && b > c && b > d)
+                {
+                    u = b;
+                }
+                else
+                {
+                    if (c > a && c > b && c > d)
+                    {
+                        u = c;
+                    }
+                    else
+                        u = d;
+                }
+            }
+            Console.WriteLine("el mayor es " + u);
+            Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,58 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace mayor_de_cuatro_numeros
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string s = "danna cecilia";
+            string res = Reverse(s);
+            string resWord = ReverseWords(s);
+            Console.WriteLine(s);
+            Console.WriteLine(res);
+            Console.Read();
+        }
+        public static string Reverse(string str)
+        {
+            if (str == null)
+                return null;
+            char[] cr = str.ToArray();
+            Reverse(cr, 0, cr.Length - 1);
+            return new string(cr);
+        }
+        public static string ReverseWords(string str)
+        {
+            if (str == null)
+                return null;
+            char[] cr = str.ToArray();
+            int wordStart = 0;
+            int end;
+            for (int i = 0; i < cr.Length; i++)
+            {
+                char c = cr[i];
+                if (c == ' ' || i == cr.Length - 1)
+                {
+                    end = i - 1;
+                    Reverse(cr, wordStart, end);
+                    wordStart = i + 1;
+                }
+            }
+            return new string(cr);
+        }
+        private static void Reverse(char[] str, int start, int end)
+        {
+            for (; start < end; start++, end--)
+            {
+                char aux = str[start];
+                str[start] = str[end];
+                str[end] = aux;
+            }
+        }
+
+    }
+}
