@@ -1,0 +1,6 @@
+E:\Pregunta 1 de examen\Pregunta 1 de examen\bin\Debug\Pregunta 1 de examen.exe.config
+E:\Pregunta 1 de examen\Pregunta 1 de examen\bin\Debug\Pregunta 1 de examen.exe
+E:\Pregunta 1 de examen\Pregunta 1 de examen\bin\Debug\Pregunta 1 de examen.pdb
+E:\Pregunta 1 de examen\Pregunta 1 de examen\obj\Debug\Pregunta 1 de examen.csprojAssemblyReference.cache
+E:\Pregunta 1 de examen\Pregunta 1 de examen\obj\Debug\Pregunta 1 de examen.exe
+E:\Pregunta 1 de examen\Pregunta 1 de examen\obj\Debug\Pregunta 1 de examen.pdb

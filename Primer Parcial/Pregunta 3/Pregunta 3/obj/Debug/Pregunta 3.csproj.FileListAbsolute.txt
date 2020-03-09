@@ -1,0 +1,6 @@
+E:\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.csprojAssemblyReference.cache
+E:\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.exe.config
+E:\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.exe
+E:\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.pdb
+E:\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.exe
+E:\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.pdb
