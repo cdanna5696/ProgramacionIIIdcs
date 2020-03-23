@@ -1,0 +1,7 @@
+D:\Bicola\Bicola\bin\Debug\Bicola.exe.config
+D:\Bicola\Bicola\bin\Debug\Bicola.exe
+D:\Bicola\Bicola\bin\Debug\Bicola.pdb
+D:\Bicola\Bicola\obj\Debug\Bicola.csprojAssemblyReference.cache
+D:\Bicola\Bicola\obj\Debug\Bicola.csproj.CoreCompileInputs.cache
+D:\Bicola\Bicola\obj\Debug\Bicola.exe
+D:\Bicola\Bicola\obj\Debug\Bicola.pdb
