@@ -27,7 +27,7 @@ namespace Bicola
             if (LLena())
             {
                 arreglo[frente] = valor;
-                frente = (frente + 1) % Maximo;
+                frente = (frente - 1) % Maximo;
             }
         }
         public T Eliminar()
