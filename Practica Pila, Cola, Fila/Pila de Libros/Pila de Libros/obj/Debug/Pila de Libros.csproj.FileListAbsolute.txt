@@ -1,0 +1,7 @@
+D:\Pila de Libros\Pila de Libros\obj\Debug\Pila de Libros.csprojAssemblyReference.cache
+D:\Pila de Libros\Pila de Libros\obj\Debug\Pila de Libros.csproj.CoreCompileInputs.cache
+D:\Pila de Libros\Pila de Libros\bin\Debug\Pila de Libros.exe.config
+D:\Pila de Libros\Pila de Libros\bin\Debug\Pila de Libros.exe
+D:\Pila de Libros\Pila de Libros\bin\Debug\Pila de Libros.pdb
+D:\Pila de Libros\Pila de Libros\obj\Debug\Pila de Libros.exe
+D:\Pila de Libros\Pila de Libros\obj\Debug\Pila de Libros.pdb

@@ -1,0 +1,7 @@
+D:\Cola de rentistas\Cola de rentistas\obj\Debug\Cola de rentistas.csprojAssemblyReference.cache
+D:\Cola de rentistas\Cola de rentistas\obj\Debug\Cola de rentistas.csproj.CoreCompileInputs.cache
+D:\Cola de rentistas\Cola de rentistas\bin\Debug\Cola de rentistas.exe.config
+D:\Cola de rentistas\Cola de rentistas\bin\Debug\Cola de rentistas.exe
+D:\Cola de rentistas\Cola de rentistas\bin\Debug\Cola de rentistas.pdb
+D:\Cola de rentistas\Cola de rentistas\obj\Debug\Cola de rentistas.exe
+D:\Cola de rentistas\Cola de rentistas\obj\Debug\Cola de rentistas.pdb

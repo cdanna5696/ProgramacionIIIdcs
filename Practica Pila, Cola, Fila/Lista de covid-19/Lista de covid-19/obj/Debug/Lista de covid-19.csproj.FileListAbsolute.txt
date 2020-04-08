@@ -1,0 +1,7 @@
+D:\Lista de covid-19\Lista de covid-19\bin\Debug\Lista de covid-19.exe.config
+D:\Lista de covid-19\Lista de covid-19\bin\Debug\Lista de covid-19.exe
+D:\Lista de covid-19\Lista de covid-19\bin\Debug\Lista de covid-19.pdb
+D:\Lista de covid-19\Lista de covid-19\obj\Debug\Lista de covid-19.csprojAssemblyReference.cache
+D:\Lista de covid-19\Lista de covid-19\obj\Debug\Lista de covid-19.csproj.CoreCompileInputs.cache
+D:\Lista de covid-19\Lista de covid-19\obj\Debug\Lista de covid-19.exe
+D:\Lista de covid-19\Lista de covid-19\obj\Debug\Lista de covid-19.pdb
