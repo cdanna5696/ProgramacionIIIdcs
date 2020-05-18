@@ -1,0 +1,7 @@
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.csprojAssemblyReference.cache
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.csproj.CoreCompileInputs.cache
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.exe.config
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.exe
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.pdb
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.exe
+E:\ProgramacionIIIdcs\Examen de 2do Parcial\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.pdb
