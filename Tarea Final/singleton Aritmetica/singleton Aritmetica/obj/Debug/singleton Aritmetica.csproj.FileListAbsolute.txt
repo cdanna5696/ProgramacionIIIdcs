@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\bin\Debug\singleton Aritmetica.exe.config
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\bin\Debug\singleton Aritmetica.exe
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\bin\Debug\singleton Aritmetica.pdb
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\obj\Debug\singleton Aritmetica.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\obj\Debug\singleton Aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\obj\Debug\singleton Aritmetica.exe
+C:\Users\USUARIO\Documents\Programación III\singleton Aritmetica\singleton Aritmetica\obj\Debug\singleton Aritmetica.pdb
