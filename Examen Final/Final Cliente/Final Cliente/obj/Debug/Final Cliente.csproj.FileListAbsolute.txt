@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\bin\Debug\Final Cliente.exe.config
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\bin\Debug\Final Cliente.exe
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\bin\Debug\Final Cliente.pdb
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\obj\Debug\Final Cliente.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\obj\Debug\Final Cliente.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\obj\Debug\Final Cliente.exe
+C:\Users\USUARIO\Documents\Final Cliente\Final Cliente\obj\Debug\Final Cliente.pdb

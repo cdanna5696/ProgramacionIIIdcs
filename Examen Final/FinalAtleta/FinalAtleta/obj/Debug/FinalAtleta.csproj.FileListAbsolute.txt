@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Documents\Programación III\FinalAtleta\FinalAtleta\obj\Debug\FinalAtleta.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programación III\FinalAtleta\FinalAtleta\obj\Debug\FinalAtleta.csproj.CoreCompileInputs.cache
